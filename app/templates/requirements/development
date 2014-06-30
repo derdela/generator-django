@@ -1,2 +1,4 @@
 -r COMMON
 ipdb==0.7
+django_extensions
+werkzeug

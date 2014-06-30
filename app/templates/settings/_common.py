@@ -152,6 +152,9 @@ EXTERNAL_APPS = (
     'django.contrib.staticfiles',
 
     # Other external apps
+    'bootstrap3',
+    'django-extensions',
+    'south',
 )
 
 INTERNAL_APPS = (
